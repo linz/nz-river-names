@@ -173,42 +173,42 @@ To download each of the matching time period snapshots for the related Topo50 da
 
 **NZ Coastlines (Topo, 1:50k)**
 
-- WFS: :wfs:`http://data.linz.govt.nz/services;key=<your-key>/wfs/layer-50258-changeset?SERVICE=WFS&REQUEST=GetCapabilities&viewparams=from:2011-05-22;to:2018-12-13`
+- WFS: :wfs:`http://data.linz.govt.nz/services;key=<your-key>/wfs/layer-50258-changeset?SERVICE=WFS&REQUEST=GetCapabilities&viewparams=from:2011-05-20;to:2018-12-13`
 
 - CSV: :csv:`https://data.linz.govt.nz/services;key=<your key>/wfs/layer-50258-changeset?SERVICE=WFS&VERSION=2.0.0&REQUEST=GetFeature&typeNames=layer-50258-changeset&viewparams=from:2011-05-22;to:2018-12-13&outputFormat=csv`
 
 
 **NZ Island Polygons (Topo, 1:50k)**
 
-- WFS: :wfs:`https://data.linz.govt.nz/services;key=<your key>/wfs/layer-50288-changeset?SERVICE=WFS&REQUEST=GetCapabilities&viewparams=from:2011-05-22;to:2018-12-13`
+- WFS: :wfs:`https://data.linz.govt.nz/services;key=<your key>/wfs/layer-50288-changeset?SERVICE=WFS&REQUEST=GetCapabilities&viewparams=from:2011-05-20;to:2018-12-13`
 
 - CSV: :csv:`https://data.linz.govt.nz/services;key=<your key>/wfs/layer-50288-changeset?SERVICE=WFS&VERSION=2.0.0&REQUEST=GetFeature&typeNames=layer-50288-changeset&viewparams=from:2011-05-22;to:2018-12-13&outputFormat=csv`
 
 
 **NZ Lagoon Polygons (Topo, 1:50k)**
 
-- WFS: :wfs:`https://data.linz.govt.nz/services;key=<your key>/wfs/layer-50292-changeset?SERVICE=WFS&REQUEST=GetCapabilities&viewparams=from:2011-05-22;to:2018-12-13`
+- WFS: :wfs:`https://data.linz.govt.nz/services;key=<your key>/wfs/layer-50292-changeset?SERVICE=WFS&REQUEST=GetCapabilities&viewparams=from:2011-05-20;to:2018-12-13`
 
 - CSV: :csv:`https://data.linz.govt.nz/services;key=<your key>/wfs/layer-50292-changeset?SERVICE=WFS&VERSION=2.0.0&REQUEST=GetFeature&typeNames=layer-50292-changeset&viewparams=from:2011-05-22;to:2018-12-13&outputFormat=csv`
 
 
 **NZ Lake Polygons (Topo, 1:50k)**
 
-- WFS: :wfs:`https://data.linz.govt.nz/services;key=<your key>/wfs/layer-50293-changeset?SERVICE=WFS&REQUEST=GetCapabilities&viewparams=from:2011-05-22;to:2018-12-13`
+- WFS: :wfs:`https://data.linz.govt.nz/services;key=<your key>/wfs/layer-50293-changeset?SERVICE=WFS&REQUEST=GetCapabilities&viewparams=from:2011-05-20;to:2018-12-13`
 
 - CSV: :csv:`https://data.linz.govt.nz/services;key=<your key>/wfs/layer-50293-changeset?SERVICE=WFS&VERSION=2.0.0&REQUEST=GetFeature&typeNames=layer-50293-changeset&viewparams=from:2011-05-22;to:2018-12-13&outputFormat=csv`
 
 
 **NZ Pond Polygons (Topo, 1:50k)**
 
-- WFS: :wfs:`https://data.linz.govt.nz/services;key=<your key>/wfs/layer-50310-changeset?SERVICE=WFS&REQUEST=GetCapabilities&viewparams=from:2011-05-22;to:2018-12-13`
+- WFS: :wfs:`https://data.linz.govt.nz/services;key=<your key>/wfs/layer-50310-changeset?SERVICE=WFS&REQUEST=GetCapabilities&viewparams=from:2011-05-20;to:2018-12-13`
 
 - CSV: :csv:`https://data.linz.govt.nz/services;key=<your key>/wfs/layer-50310-changeset?SERVICE=WFS&VERSION=2.0.0&REQUEST=GetFeature&typeNames=layer-50310-changeset&viewparams=from:2011-05-22;to:2018-12-13&outputFormat=csv`
 
 
 **NZ Swamp Polygons (Topo, 1:50k)**
 
-- WFS: :wfs:`https://data.linz.govt.nz/services;key=<your key>/wfs/layer-50359-changeset?SERVICE=WFS&REQUEST=GetCapabilities&viewparams=from:2011-05-22;to:2018-12-13`
+- WFS: :wfs:`https://data.linz.govt.nz/services;key=<your key>/wfs/layer-50359-changeset?SERVICE=WFS&REQUEST=GetCapabilities&viewparams=from:2011-05-20;to:2018-12-13`
 
 - CSV: :csv:`https://data.linz.govt.nz/services;key=<your key>/wfs/layer-50359-changeset?SERVICE=WFS&VERSION=2.0.0&REQUEST=GetFeature&typeNames=layer-50359-changeset&viewparams=from:2011-05-22;to:2018-12-13&outputFormat=csv`
 
