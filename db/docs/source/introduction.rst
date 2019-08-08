@@ -167,7 +167,7 @@ To illustrate the importance of using these related water features for visualisa
 +---------------------------------------------------------------------------------------+
 
 
-To download each of the matching time period snapshots for the related Topo50 datasets below, replace the section "**<your key>**" in the links below with your appropriate API key from your LDS account. Use the links to download snapshot changesets in a CSV file of the data, or use the Web Feature Service (WFS) url to obtain a live link to the data in your geospatial software of choice. For more information about how changesets work, please see this help document on `changesets on the LDS <https://www.linz.govt.nz/data/linz-data-service/guides-and-documentation/changeset-api>`_.
+To download each of the matching time period snapshots for the related Topo50 datasets below, replace the section "**<your key>**" in the links below with your appropriate API key from your LDS account. Use the links to download snapshot changesets in a CSV file of the data, or use the Web Feature Service (WFS) url to obtain a live link to the data in your geospatial software of choice. For more information about how changesets work, please see this help document on `changesets on the LDS <https://www.linz.govt.nz/data/linz-data-service/guides-and-documentation/changeset-api>`_ .
 
 
 
