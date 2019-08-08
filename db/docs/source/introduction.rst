@@ -47,7 +47,8 @@ The new **NZ River Name Lines (Pilot)** dataset consists of the combined geometr
 | `NZ River Centrelines (Topo, 1:50k) <https://data.linz.govt.nz/layer/50327>`_
 
 but with names applied as attributes for named features.
-The Topo50 river centrelines, drain centrelines, and canal centrelines datasets do not currently contain river names as an attribute, and river names are instead held in a separate `Geographic Names <https://data.linz.govt.nz/layer/50280/>`_ point dataset (Image 1 example). The new NZ River Name Lines (Pilot) dataset does contain river names as an attribute of each river feature (Image 2 example).
+
+The Topo50 river centrelines, drain centrelines, and canal centrelines datasets do not currently contain river names as an attribute, and river names are instead held in a separate `Geographic Names <https://data.linz.govt.nz/layer/50280/>`_ point dataset (Image 1 example). The new NZ River Name Lines (Pilot) dataset does contain river names as an attribute of each river feature (Image 2 example). All of the features in these three datasets have been included. Unnamed features have an empty name attribute but are still included for context.
 
 +------------------------------------------------------------------------+
 | .. figure:: _static/image_1_topo50_points.jpg                          |
@@ -74,7 +75,7 @@ In a similar manner, the new **NZ River Name Polygons (Pilot)** dataset consists
 | `NZ River Polygons (Topo, 1:50k) <https://data.linz.govt.nz/layer/50328>`_
 
 but with names applied as attributes for named features.
-The Topo50 river polygons and canal polygons datasets also do not currently contain river names as an attribute, and river names are instead held in a separate `Geographic Names`_ point dataset (Image 3 example). The new NZ River Name Polygons (Pilot) dataset does contain river names as an attribute of each river feature, and the river polygons geometries were split where differently named river polygons are joined (Image 4 exmaple).
+The Topo50 river polygons and canal polygons datasets also do not currently contain river names as an attribute, and river names are instead held in a separate `Geographic Names`_ point dataset (Image 3 example). The new NZ River Name Polygons (Pilot) dataset does contain river names as an attribute of each river feature, and the river polygons geometries were split where differently named river polygons are joined (Image 4 exmaple). All of the features in these two datasets have been included. Unnamed features have an empty name attribute but are still included for context.
 
 +-------------------------------------------------------------------+
 | .. figure:: _static/image_3_topo50_polygons.png                   |
