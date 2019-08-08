@@ -219,7 +219,7 @@ Feedback
 
 **We want your feedback**
 
-This pilot dataset is unlikely to be updated, however feedback will be used for future enhancements to LINZ river datasets. To provide your feedback on these pilot datasets, please complete our short survey here: https://landinformationnz.au1.qualtrics.com/jfe/form/SV_2gYFwbXfDY1jm9n
+This pilot dataset is unlikely to be updated, however feedback will be used for future enhancements to LINZ river datasets. To provide your feedback on these pilot datasets, please complete our `short survey here <https://landinformationnz.au1.qualtrics.com/jfe/form/SV_2gYFwbXfDY1jm9n>`_
 
 
 Accuracy Specification
