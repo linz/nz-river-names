@@ -152,7 +152,14 @@ The [NZ River Name Lines and Polygons (Pilot) Data Dictionary](https://nz-river-
 
 - Official geographic names as listed in the [New Zealand Gazetteer of place names](https://www.linz.govt.nz/regulatory/place-names/find-place-name/new-zealand-gazetteer-place-names) must be used in all official documents as per the New Zealand Geographic Board (Ngā Pou Taunaha o Aotearoa) Act 2008.
 
-- This pilot dataset is unlikely to be updated, however feedback will be used for future enhancements to LINZ river datasets.</gco:CharacterString>
+- This pilot dataset is unlikely to be updated, however feedback will be used for future enhancements to LINZ river datasets.
+
+---
+**APIs and web services**
+This dataset is available via ArcGIS Online and ArcGIS REST services, as well as our standard APIs.
+[LDS APIs and OGC web services](https://data.linz.govt.nz/layer/103632/webservices/)
+[ArcGIS Online map services](https://basedatanz.maps.arcgis.com/home/item.html?id=bafb0e414bde45479e229798b1b8433d)
+[ArcGIS REST API](https://services7.arcgis.com/jI87xPT7G1AGV8Uo/arcgis/rest/services/)</gco:CharacterString>
       </gmd:abstract>
       <gmd:purpose>
         <gco:CharacterString>The purpose of this river name lines pilot dataset is to understand the benefit of having river names attributed to river geometry features and making this openly available through the LINZ Data Service.</gco:CharacterString>
