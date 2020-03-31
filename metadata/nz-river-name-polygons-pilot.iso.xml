@@ -118,11 +118,6 @@ Unnamed rivers are also included in this dataset.
 
 Together with the [NZ River Name Lines (Pilot)](https://data.linz.govt.nz/layer/103632) dataset, these are the first openly available datasets with NZ river names attributed to geometry features (lines and polygons). This data can be used for searching for a named river and zooming to its extents, extracting geometries of a named river, creating digital cartographic products displaying river names, and analysing other features against named rivers (e.g. identifying buildings or properties within a specified distance of a particular river).
 
-**We want your feedback**
-
-To provide feedback on these pilot datasets, please complete our [short survey](https://landinformationnz.au1.qualtrics.com/jfe/form/SV_2gYFwbXfDY1jm9n).
-Your feedback will be used to help inform future enhancements to LINZ river datasets.
-
 **Data vintage**
 
 The river names and extents in this dataset are based on the cartographic text shown on NZ Topo50 maps as of December 2018, and are an approximation and should not be taken as official. Further details are included in the 'Naming Extents Methodology' section in the 'Lineage' of this metadata.
