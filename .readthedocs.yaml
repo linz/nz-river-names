@@ -19,5 +19,5 @@ sphinx:
 # We recommend specifying your dependencies to enable reproducible builds:
 # https://docs.readthedocs.io/en/stable/guides/reproducible-builds.html
 # python:
-#   install:
-#   - requirements: requirements-doc.txt
+   install:
+   - requirements: requirements-docs.txt
